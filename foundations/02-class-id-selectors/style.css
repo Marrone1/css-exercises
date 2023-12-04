@@ -1,0 +1,16 @@
+.Odd{
+    background-color:#ea9999;
+    font-family:Verdana, "Dejavu Sans",sans-serif;
+}
+#second{
+    color:#0a1cff;
+    font-size: 36px;
+}
+#fourth{
+    background-color: #8cfca8;
+    font-size: 24px;
+    font-weight: bold;
+}
+.Odd.one{
+    font-size: 24px;
+}
